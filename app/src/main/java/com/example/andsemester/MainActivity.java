@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("yeee");
 
+        System.out.println("fffff!!!");
         SimpleDateFormat tempDate = new SimpleDateFormat("yyyy-MM-dd");
         String datetime = tempDate.format(new java.util.Date());
 

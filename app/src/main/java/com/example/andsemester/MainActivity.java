@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        System.out.println("yeee");
+
         SimpleDateFormat tempDate = new SimpleDateFormat("yyyy-MM-dd");
         String datetime = tempDate.format(new java.util.Date());
 

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndSemester</string>
+    <string name="date">date</string>
+    <string name="starttime">startTime</string>
+    <string name="endtime">endTime</string>
+    <string name="description">description</string>
+    <string name="event_name">event_name</string>
+    <string name="getting_date">Getting date...</string>
+</resources>

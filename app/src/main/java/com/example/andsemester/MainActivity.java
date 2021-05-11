@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("yeee");
-
+// now serious
         System.out.println("fffff!!!");
         SimpleDateFormat tempDate = new SimpleDateFormat("yyyy-MM-dd");
         String datetime = tempDate.format(new java.util.Date());
